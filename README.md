@@ -8,7 +8,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I 
 -->
 
-<br /> 
+
+
 I am a computer scinece student at UBC. Welcome to my GitHub 💜  <br /> 
 <br /> 
 **I like peanut butter**
