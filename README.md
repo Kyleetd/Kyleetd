@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 I am a computer scinece student at UBC. Welcome to my GitHub💜  <br /> 
 <br /> 
-**I like peanut butter, coffee, and a good book.**
+**I like peanut butter**
