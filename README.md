@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 
 I am a computer scinece student at UBC. Welcome to my GitHub💜 
-##**I like peanut butter.**
+**I like peanut butter.**
