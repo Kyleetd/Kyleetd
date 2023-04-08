@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 I am a computer scinece student at UBC. Welcome to my GitHub 💜  <br /> 
 <br /> 
-**I like peanut butter, anime, and Dune**
+**I like peanut butter, cookies, anime, and Dune**
